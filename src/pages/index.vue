@@ -48,7 +48,7 @@
 
     <!-- next section -->
   </section>
-  <section class="my-8 text-gray-800 bg-gray-100">
+  <section class="my-8 text-gray-800">
     <div
       class="container flex flex-col items-center px-4 py-10 mx-auto space-y-6 md:p-8"
     >
@@ -85,8 +85,8 @@ definePageMeta({
 });
 
 useHead({
-  title: 'Nuxt + Tailwind Template',
-  description: 'Clean and minimal Nuxt 3 + Tailwind starter template.',
+  title: 'MK Kashiyama',
+  description: 'Philippines Exclusive Distributor of MK Kashiyama',
 });
 </script>
 
